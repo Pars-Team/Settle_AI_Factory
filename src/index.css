@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Space+Grotesk:wght@300..700&family=JetBrains+Mono:wght@300;400;500;700&family=Vazirmatn:wght@355;455;555;755;855&display=swap');
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+
+@theme {
+  --font-serif: "Lora", "Georgia", serif;
+  --font-sans: "Vazirmatn", "Space Grotesk", "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+
+body {
+  background-color: #F7F5F2;
+  color: #2D2926;
+  font-family: var(--font-sans);
+}

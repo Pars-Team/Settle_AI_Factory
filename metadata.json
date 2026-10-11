@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Morphogenetic Settlement Generator",
+  "description": "یک شبیه‌ساز مورفوژنتیک رشد سکونتگاه‌های کانتینری با منطق رشد پایین به بالا از هسته، واحدها، حیاط‌ها، و شبکه‌های دسترسی.\nخروجی json به صورت زنده",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
